@@ -1,0 +1,26 @@
+# 编译产物
+*.dll
+*.lib
+*.exp
+*.obj
+*.pdb
+*.ilk
+
+# 编辑器
+.vs/
+*.user
+*.suo
+*.VC.db
+
+# 示例输出
+*.z3prt
+*.Z3PRT
+*.z3asm
+*.stp
+*.STEP
+*.stl
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
